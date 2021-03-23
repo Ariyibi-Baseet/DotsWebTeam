@@ -1,0 +1,42 @@
+/* custom css for background color */
+
+.--bg-slate-gray{
+    background-color:#65638a;
+}
+.--bg-deep-violet{
+    background-color:#605E86;
+}
+.--bg-light-green{
+    background-color:#5DD782;
+}
+.--bg-deep-pink{
+    background-color:#FE5366;
+}
+.--bg-slight-gray{
+    background-color:#8A89A9;
+}
+.--bg-deeper-violet{
+    background-color:#4C4B73;
+}
+.--bg-creamy-yellow{
+    background-color:#FED677;
+}
+.--bg-unset-brown{
+    background-color:#B6647A;
+}
+
+/* for font sizes */
+.f-16{
+    font-size:16px;
+}
+.f-18{
+    font-size:18px;
+}
+.f-20{
+    font-size:20px;
+}
+
+/* for text decorations */
+.text-d{
+    text-decoration:none;
+}
