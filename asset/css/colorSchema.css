@@ -24,7 +24,12 @@
 .--bg-unset-brown{
     background-color:#B6647A;
 }
-
+.--bg-deeper-orange{
+    background-color:#ed7d2b;
+}
+.--bg-maroon-like{
+    background-color:#c65547;
+}
 /* for font sizes */
 .f-16{
     font-size:16px;
@@ -40,3 +45,10 @@
 .text-d{
     text-decoration:none;
 }
+
+
+deep orange
+#ed7d2b 
+
+maroon like
+#c65547
