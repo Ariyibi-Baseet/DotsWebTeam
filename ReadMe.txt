@@ -61,7 +61,7 @@ Note: edit the first span with your firstname,lastname and other name as initial
 
 4. the third div with a class of `info --bg-deeper-violet` or copy the code below
 ```````````````````````````````````````````````````````````````````````````````````````````````````
-<div class="info --bg-deeper-violet">
+<div class="info --bg-maroon-like">
     ```
 <i class="fas fa-user-plus" style="font-size:23px;"></i>
     ```
