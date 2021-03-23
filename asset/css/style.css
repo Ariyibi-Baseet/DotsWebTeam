@@ -121,4 +121,7 @@ main.landingsection a .teambtn{
 }
 /**************************************************************** TO HERE ***************************************************************************/
 
-/* Paste your code here */
+.profile-card .joshua-image-top{
+    height:50%;
+    background-image:url(../image/joshua.jpg);
+    background-size:cover;
