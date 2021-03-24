@@ -125,3 +125,10 @@ main.landingsection a .teambtn{
     height:50%;
     background-image:url(../image/joshua.jpg);
     background-size:cover;
+}
+
+.profile-card .emmanuel-image-top{
+    height:50%;
+    background-image:url(../image/Emmanuel.JPG);
+    background-size:cover;
+}
